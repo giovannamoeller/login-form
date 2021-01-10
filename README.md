@@ -1,2 +1,26 @@
-# login-form-1
-This is a simple and responsive login form made with HTML and CSS using transitions.
+# Login_HTML_Responsivo
+Criando um formulário de login responsivo com HTML e CSS com @giovannamoeller
+    
+<img src="./form.gif">
+
+# Como rodar o projeto
+- Baixe o projeto com GIT
+  ``` 
+    git clone https://github.com/davidlpc1/login-form-1.git
+  ```
+- Baixe as dependencias com npm/yarn
+  ```
+    npm install
+    // OR
+    yarn install  
+  ```
+
+- Rode o projeto com npm/yarn
+  ```
+    npm run dev
+    // OR
+    yarn dev
+  ```
+- Abra o http://localhost:3000
+    
+
