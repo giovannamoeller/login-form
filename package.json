@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "name": "Login_HTML_Responsivo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davidlpc1/Login_HTML_Responsivo",
+  "author": "Davi Lucas <davilucasdlcreator@gmail.com>",
+  "license": "MIT"
+}
