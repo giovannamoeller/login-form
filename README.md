@@ -1,5 +1,8 @@
 # Login_HTML_Responsivo
 Criando um formulário de login responsivo com HTML e CSS com @giovannamoeller
+    
+<img src="./form.gif">
+
 # Como rodar o projeto
 - Baixe o projeto com GIT
   ``` 
@@ -20,5 +23,4 @@ Criando um formulário de login responsivo com HTML e CSS com @giovannamoeller
   ```
 - Abra o http://localhost:3000
     
-    
-<img src="./form.gif">
+
