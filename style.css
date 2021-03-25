@@ -20,7 +20,7 @@ body {
 
 main.container {
     background: white;
-    max-width: 350px;
+    min-width: 320px;
     min-height: 40vh;
     padding: 2rem;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
@@ -88,6 +88,7 @@ form .input-field:first-child {
     outline: none;
     font-size: 0.9rem;
     color: rgba(0, 0, 0, 0.7);
+    width: 100%;
 }
 
 .input-field input::placeholder {
@@ -97,6 +98,7 @@ form .input-field:first-child {
 form input[type="submit"] {
     margin-top: 2rem;
     padding: 0.4rem;
+    width: 100%;
     background: linear-gradient(to left, #4776E6, #8e54e9);
     cursor: pointer;
     color: white;
